@@ -22,7 +22,7 @@ class Servidor(BaseHTTPRequestHandler):
 
 
 HTTPServer(("0.0.0.0", 8000), Servidor).serve_forever()
-
+print("Rede Cliente-Servidor")
 
     
     
