@@ -5,7 +5,7 @@
 </div>
 
 <hr> 
-<div align = justify">
+<div align = "justify">
 <h2> DESCRIÇÃO DO PROJETO 🔎</h2>
 <p> Servidor Back-end onde é possível realizar dois tipos de requisições em HTTP. </p>
 <li> Método GET</li>
